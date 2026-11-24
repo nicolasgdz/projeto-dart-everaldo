@@ -21,4 +21,4 @@ O método `atendeCriterioDeIdade` reproduz a regra do trabalho Java. Ele calcula
 
 ## Uso de IA
 
-A IA foi utilizada para tirar duvidas e organização geral do arquivo.
+A IA foi utilizada para tirar dúvidas e ajudar na organização geral do arquivo.
